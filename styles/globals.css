@@ -105,3 +105,22 @@ a {
     color-scheme: dark;
   }
 }
+
+
+.layout-header{
+  height: 60px;
+          background-color: #264653;
+          color: #f4a261;
+          font-size: 30px;
+          text-align: center;
+          padding: 30px;
+          
+}
+
+.layout-footer {
+          background-color: #264653;
+          color: #e9646a;
+          font-size: 30px;
+          text-align: center;
+          padding: 20px;
+}
